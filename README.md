@@ -69,11 +69,11 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gauranshkumar&show_icons=true&theme=radical&border_radius=10&line_height=27" alt="Gauransh's github stats"/>
 </a>
 <a href="https://github.com/gauranshkumar/butterfly">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gauranshkumar&repo=butterfly&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gauranshkumar&border_radius=10&repo=butterfly&theme=radical" />
 
 </a>
 <a href="https://github.com/gauranshkumar/KNNClassifier">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gauranshkumar&repo=KNNClassifier&theme=radical" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gauranshkumar&border_radius=10&repo=KNNClassifier&theme=radical" />
 </a>
 
 <div align="center">
