@@ -38,7 +38,7 @@
 - 🔭 I’m currently in 2<sup>nd</sup> year of B.Tech in CSE.
 - 🌱 I’m currently learning more about Kubernetes and Flutter.
 - 👯 I’m looking to collaborate on Open Source Projects.
-<!-- - 🤔 I’m looking for help with VelocityX documentation. -->
+- 👨‍💻 Maintaining [screeninfo](https://github.com/rr-/screeninfo) package @ [conda-forge](https://conda-forge.org/)
 - 💬 Disucss with me about any tech related stuff or your ideas.
 - 📫 How to reach me: [Twitter - @gauransh_k](https://twitter.com/gauransh_k)
 - 😄 Pronouns: He/Him
