@@ -35,8 +35,8 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently in 2<sup>nd</sup> year of B.Tech in CSE.
-- 🌱 I’m currently learning more about Kubernetes and Flutter.
+- 🔭 I’m currently in Final year of B.Tech in CSE.
+- 🌱 I’m currently learning more about Kubernetes and DevOps.
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 👨‍💻 Maintaining [screeninfo](https://github.com/rr-/screeninfo) package @ [conda-forge](https://anaconda.org/conda-forge/screeninfo)
 - 💬 Disucss with me about any tech related stuff or your ideas.
@@ -65,13 +65,13 @@
 <a href="https://github.com/gauranshkumar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauranshkumar&theme=radical&langs_count=6&layout=compact&border_radius=10" />
 </a>
-<a href="https://github.com/gauranshkumar">
+<!-- <a href="https://github.com/gauranshkumar">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gauranshkumar&show_icons=true&theme=radical&border_radius=10&line_height=27" alt="Gauransh's github stats"/>
-</a>
-<a href="https://github.com/gauranshkumar/butterfly">
+</a> -->
+<!-- <a href="https://github.com/gauranshkumar/butterfly">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gauranshkumar&border_radius=10&repo=butterfly&theme=radical" />
 
-</a>
+</a> -->
 <a href="https://github.com/gauranshkumar/KNNClassifier">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gauranshkumar&border_radius=10&repo=KNNClassifier&theme=radical" />
 </a>
